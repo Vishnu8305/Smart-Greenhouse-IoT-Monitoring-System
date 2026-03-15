@@ -371,7 +371,7 @@ npm run dev
 
 # 👨‍💻 Author
 
-**Vidhyadhara Rao Kotagiri**
+** Pedaballi Vishnu Vardhan Reddy **
 BTech IoT — KL University
 
 ---
